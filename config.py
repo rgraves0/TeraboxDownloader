@@ -22,4 +22,4 @@ DUMP_CHANNEL = -1002279229538
 
 
 # Config
-COOKIE = environ.get("COOKIE", "")
+COOKIE = environ.get("COOKIE", "R0ThlwEgkqE54mNs9PWnjjC")
